@@ -1,8 +1,3 @@
-3_Projects/
-4_Sample_Problems/
-schedule_MIE1517.pdf
-syllabus_MIE1517.pdf
-*.DS_Store
-.DS_Store
-2_Assignments/.DS_Store
-data/
+*
+!*.ipynb
+!.gitignore
